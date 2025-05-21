@@ -38,6 +38,6 @@ Passionate about securing networks, breaking things to build them better, and sh
 
 - ✉️ **Email:** [maurice@mauricemhaddad.com](mailto:maurice@mauricemhaddad.com)  
 - 🌐 **Website:** [mauricemhaddad.com](https://mauricemhaddad.com)  
-- LinkedIn: [linkedin.com/in/maurice-haddad-aub](https://www.linkedin.com/in/maurice-haddad-aub/)  
+- 💻 **LinkedIn:** [linkedin.com/in/maurice-haddad-aub](https://www.linkedin.com/in/maurice-haddad-aub/)  
 
 
