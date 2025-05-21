@@ -1,5 +1,4 @@
 <!-- Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=mmh152)]()
 [![TryHackMe Rank](https://img.shields.io/badge/tryhackme-Top%202%25-brightgreen)](https://tryhackme.com/p/mauricemhaddad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maurice%20Haddad-blue?logo=linkedin)](https://www.linkedin.com/in/maurice-haddad-aub/)
 [![Website](https://img.shields.io/badge/🌐-mauricemhaddad.com-lightgrey)](https://mauricemhaddad.com)
@@ -13,9 +12,8 @@ Passionate about securing networks, breaking things to build them better, and sh
 ---
 
 ## 🔭 I’m currently working on
-- 🏅 Advancing through TryHackMe Pro labs and new CTF challenges  
+- 🏅 Advancing through TryHackMe labs and new CTF challenges  
 - ✍️ Publishing detailed CTF write-ups: [GitBook](https://maurice-5.gitbook.io/ctf-writeups)  
-- 🤖 Automating pentesting workflows with Python  
 
 ---
 
@@ -36,18 +34,10 @@ Passionate about securing networks, breaking things to build them better, and sh
 
 ---
 
-## 📈 GitHub Stats
-
-![Maurice’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmh152&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 
 - ✉️ **Email:** [maurice@mauricemhaddad.com](mailto:maurice@mauricemhaddad.com)  
 - 🌐 **Website:** [mauricemhaddad.com](https://mauricemhaddad.com)  
 - LinkedIn: [linkedin.com/in/maurice-haddad-aub](https://www.linkedin.com/in/maurice-haddad-aub/)  
 
----
 
-> “Build security in from the start, not bolt it on after.”
